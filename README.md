@@ -1,6 +1,6 @@
 # Menu-Arvore-AVL
 
-# Este programa implementa uma Árvore AVL em C#, que é uma estrutura de dados de árvore binária balanceada. A Árvore AVL é balanceada automaticamente após inserções e remoções de elementos, garantindo que a altura da árvore permaneça mínima e reduzindo a complexidade de operações de pesquisa, inserção e remoção.
+ Este programa implementa uma Árvore AVL em C#, que é uma estrutura de dados de árvore binária balanceada. A Árvore AVL é balanceada automaticamente após inserções e remoções de elementos, garantindo que a altura da árvore permaneça mínima e reduzindo a complexidade de operações de pesquisa, inserção e remoção.
 
 # Funcionalidades Principais
 Inserir um número na árvore AVL: Permite adicionar um novo número à árvore, mantendo-a balanceada.
